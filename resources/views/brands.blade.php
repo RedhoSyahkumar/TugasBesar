@@ -1,6 +1,6 @@
 @extends('adminlte::page')
 
-@section('title', 'Kyodan.id')
+@section('title', '')
 
 @section('content_header')
     <h1>Pengelolaan Brands</h1>
